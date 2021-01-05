@@ -1,0 +1,24 @@
+settings:
+  p-inventory:
+    index-item-phone: 4
+  commands:
+    no-perms-msg: '&4Hey! You can''t use this phone because you don''t have it!'
+    use-msg-command: '&4Use /msg to write at your contacts'
+    use-call-command: '&4Use /call to call at your contacts'
+    call-args-exception: '&4Use /call <otherplayer> <message>'
+    target-no-exist: '&4Target to call not exist'
+    call-yourself: '&4You don''t have any permissions to call yourself'
+    main-in-hand: '&3Devi avere il cellulare in mano per fare una chiamata!'
+  phone-gui:
+    size: 27
+    title: '&3InsertTitle'
+    display-name-one: '&3Message'
+    display-name-two: '&3Contacts'
+    display-name-three: '&3Call'
+    display-name-four: '&3Sim'
+    display-name-five: '&4GPS'
+    index-item-one: 11
+    index-item-two: 13
+    index-item-three: 15
+    index-item-four: 8
+    index-item-five: 7

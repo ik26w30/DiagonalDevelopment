@@ -1,0 +1,12 @@
+name: DiagonalPhones
+version: 0.1
+main: org.ik26w30.diagonalphones.DiagonalPhones
+api-version: 1.14
+authors: [ ik26w30 ]
+description: idk
+website: https://www.zionsstudios.eu
+commands:
+  phone:
+    description: Plugin for use phone
+  call:
+    description: Use this command for call a friend! :D
