@@ -1,0 +1,10 @@
+name: DiagonalMalattieCure
+version: 0.1
+main: org.ik26w30.diagonalmalattiecure.DiagonalMalattieCure
+api-version: 1.14
+author: Ik26w30
+description: idk
+website: https://www.zionsstudios.eu
+commands:
+  seasonstart:
+    description: Use this command to start season

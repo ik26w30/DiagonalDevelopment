@@ -1,0 +1,5 @@
+settings:
+  commands:
+    no-perms-msg: '&3You don''t have any permissions to use this command'
+    season-ended-msg: '&3Season succesfully ended./seasonstart to restart a new season'
+    infected-msg: '&3You are now infected! Go to hospital'
