@@ -1,0 +1,5 @@
+settings:
+  drug-info:
+    drug-planted-msg: '&3Drug succesfully planted! Wait 20 real minutes for having just drug'
+    index-drug: 1
+    drug-done: '&3OK! Drug is done and it is in your inventory! Deposite drug for farm it again'
